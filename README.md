@@ -1,6 +1,6 @@
 # Data-Exploration-with-Pandas-College-Major-v.s.-Your-Salary
 
-
+![image](https://github.com/Silent18Killer/Data-Exploration/assets/139036518/2c4b09ae-8621-4afa-b503-5506713dd34e)
 
 # Steps (How to download Anaconda)
 - Visit Anaconda.com/downloads
